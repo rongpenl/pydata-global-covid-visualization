@@ -3,6 +3,7 @@
 COVID-19 Visualizations, the Good, the Bad and the Malicious Visualization is supposed to convert data into more informative, digestible format so readers without too much analytical training can grasp the ideas or situations the data contains. This is especially important during the age of crisis, like the COVID-19 pandemic.
 
 The talk contains 4 parts.
+
 0. Introduction of the porject
 1. A short overview of basic scientific facts about COVID-19
 2. A critical review of visualization examples
